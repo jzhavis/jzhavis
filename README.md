@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm jzhavis</h1>
 
-<img src="[https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif](https://private-user-images.githubusercontent.com/336255820/720495074-a8ac8e61-79c4-4a9f-b959-64003f7b202d.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTU3MTY1NDcsIm5iZiI6MTc5NTcxNjI0NywicGF0aCI6Ii8zMzYyNTU4MjAvNzIwNDk1MDc0LWE4YWM4ZTYxLTc5YzQtNGE5Zi1iOTU5LTY0MDAzZjdiMjAyZC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMTI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTEyNlQxODA0MDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jYjliMGRiNmMwNDQ2NGEzNWZmYTk0YzU1MmVkZWIzNTMzOTEzZWQxNmZhNGIzNWNiYzgzZjU2Mjc1NzllMjYwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.TjEnteGn0IJ0ePxI_H_t6wO6hcfXqRKptvsC8Vow9Nc)" alt="Banner" width="100%" />
+<img src="https://file.garden/Z4q2N_Vun37x0xPS/sevenix2_mond_wallpaper.jpg" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 💡 <em>✏️ A sentence about you and what you do.</em>
