@@ -1,3 +1,5 @@
+<h1 align="center"> Hiya, I'm JYZ!</h1>
+
 <p align="center"> 
   <img src="https://64.media.tumblr.com/006a7e60d2eebe04de9ce9f426b6d613/cc24fa082771655d-74/s540x810/86aefba234eddbaace041ab5029c9bd60f401778.gifv" alt="animated line divider depicting white snowflakes falling" width="33%"/> 
   <img src="https://64.media.tumblr.com/006a7e60d2eebe04de9ce9f426b6d613/cc24fa082771655d-74/s540x810/86aefba234eddbaace041ab5029c9bd60f401778.gifv" alt="animated line divider depicting white snowflakes falling" width="33%"/> 
@@ -73,6 +75,9 @@
 </div>
 
 <p align="right"><a href="https://www.linkedin.com/in/jay-yinsheng-zhang" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="30" height="30" style="margin: 0 8px;"/></a> <a href="mailto:bluejay.zh@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="30" height="30" style="margin: 0 8px;"/></a></p>
+
+## Currently Listening to:
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=marithyme&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=marithyme&redirect=true)
 
 <!-- <p align="center"><sub>jzhavis · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p> -->
 
