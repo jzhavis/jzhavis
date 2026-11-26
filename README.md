@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm jzhavis</h1> -->
 
-<img src="https://file.garden/Z4q2N_Vun37x0xPS/scarabday2025_copy.png" alt="Banner" width="100%" />
+
 
 <p align="center"><a href="https://www.linkedin.com/in/jay-yinsheng-zhang" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="30" height="30" style="margin: 0 8px;"/></a> <a href="mailto:bluejay.zh@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="30" height="30" style="margin: 0 8px;"/></a></p>
 
