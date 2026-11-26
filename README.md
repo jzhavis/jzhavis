@@ -2,8 +2,6 @@
 
 <img src="https://file.garden/Z4q2N_Vun37x0xPS/scarabday2025_banner.png" alt="Banner" width="100%" />
 
-<p align="center"><a href="https://www.linkedin.com/in/jay-yinsheng-zhang" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="30" height="30" style="margin: 0 8px;"/></a> <a href="mailto:bluejay.zh@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="30" height="30" style="margin: 0 8px;"/></a></p>
-
 ## 欢迎光临 | Welcome to Jay's GitHub
 <em>✏️ Learning game development and coding through my master's programme! (I also draw and play video games) </em> 
 <br>
@@ -67,5 +65,7 @@
 <div align="center">
   <!---->
 </div>
+
+<p align="center"><a href="https://www.linkedin.com/in/jay-yinsheng-zhang" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="30" height="30" style="margin: 0 8px;"/></a> <a href="mailto:bluejay.zh@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="30" height="30" style="margin: 0 8px;"/></a></p>
 
 <!-- <p align="center"><sub>jzhavis · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p> -->
